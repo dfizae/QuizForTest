@@ -8,10 +8,9 @@
 * 정처기 학습 및 코딩 기록
 
 ## 🛠️ Tech Stack
-<p>
 [![My Skills](https://skillicons.dev/icons?i=js&perline=4)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,vscode&perline=3)](https://skillicons.dev)
-</p>
+
 
 ## 📁 Repository Structure
 
