@@ -9,9 +9,8 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=js&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode&perline=3)](https://skillicons.dev)
 </p>
 
 ## 📁 Repository Structure
