@@ -47,3 +47,11 @@
 
 ## 📌 Commit Message Convention
 깃허브 히스토리를 직관적으로 파악하기 위해 아래의 커밋 규칙을 준수합니다.
+
+---
+
+## ⚠️ How to Use
+
+#### Lilys Ai 툴 활용
+1. `scope.txt` 파일을 범위로 설정해서 Lilys Ai에 새로 생성하기에 붙여넣는다.
+2. `prompt_template.txt` 를 프롬프트에 붙여서 퀴즈 형식으로 만든다.
